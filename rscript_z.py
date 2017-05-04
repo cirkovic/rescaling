@@ -122,8 +122,8 @@ for c in ['b2j3', 'b3j3', 'b2j4', 'b3j4', 'b4j4']:
                                     #ky = (1.0/((38.88/10)**2))*(khct**2)#/hctXsec
                                     #kx = math.sqrt(1.0/10)*(khut**2)#/hutXsec
                                     #ky = math.sqrt(1.0/10)*(khct**2)#/hctXsec
-                                    kx = math.sqrt(10.0)*(khut**2)#/hutXsec
-                                    ky = math.sqrt(10.0)*(khct**2)#/hctXsec
+                                    kx = 10.0*(khut**2)#/hutXsec
+                                    ky = 10.0*(khct**2)#/hctXsec
 #                                    kx = math.sqrt(10.0)*math.sqrt(khut*1.4/0.1836)**2#/hutXsec
 #                                    ky = math.sqrt(10.0)*math.sqrt(khct*1.4/0.1836)**2#/hctXsec
                                     #kx = (khut**2)/0.1#/hutXsec
@@ -159,8 +159,8 @@ for c in ['b2j3', 'b3j3', 'b2j4', 'b3j4', 'b4j4']:
                                 #ky = (1.0/((38.88/10)**2))*(khct**2)#/hctXsec
                                 #kx = math.sqrt(1.0/10)*(khut**2)#/hutXsec
                                 #ky = math.sqrt(1.0/10)*(khct**2)#/hctXsec
-                               kx = math.sqrt(10.0)*(khut**2)#/hutXsec
-                               ky = math.sqrt(10.0)*(khct**2)#/hctXsec
+                               kx = 10.0*(khut**2)#/hutXsec
+                               ky = 10.0*(khct**2)#/hctXsec
 #                                kx = math.sqrt(10.0)*math.sqrt(khut*1.4/0.1836)**2#/hutXsec
 #                                ky = math.sqrt(10.0)*math.sqrt(khct*1.4/0.1836)**2#/hctXsec
                                 #kx = (khut**2)/0.1#/hutXsec

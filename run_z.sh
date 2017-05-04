@@ -8,6 +8,8 @@ OUTPUT=rescaling_z
 OUTPUT=rescaling_z1
 OUTPUT=rescaling_z2
 #OUTPUT=rescaling_z3
+OUTPUT=rescaling_z4
+OUTPUT=rescaling_z5
 
 #N=50
 #N=100
@@ -22,6 +24,7 @@ NJOBS=5
 #M=0.5
 M=1.0
 #M=0.01
+#=0.05
 #M=${1}
 
 EOS=/eos/cms/store/caf/user/mdjordje/Cirkovic
